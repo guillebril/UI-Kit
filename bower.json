@@ -1,0 +1,26 @@
+{
+  "name": "Notas",
+  "authors": [
+    "Admin"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.5.7",
+    "angular-sanitize": "^1.5.7",
+    "angular-ui-router": "^0.3.1",
+    "angular": "^1.5.7",
+    "angular-ui-select": "^0.18.0",
+    "angularjs-slider": "^5.1.0",
+    "bootstrap": "^3.3.6"
+  }
+}
