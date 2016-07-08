@@ -1,3 +1,7 @@
 var gulp = require('gulp');
+	uglify = require(gulp-uglify);
 
-gulp.task('default')
+gulp.task('default', function(){
+
+	gulp.src('js/*')
+});
